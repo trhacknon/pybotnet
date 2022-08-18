@@ -27,8 +27,8 @@ theme:
     - search.highlight
     - content.code.annotate
 
-repo_name: onionj/pybotnet
-repo_url: https://github.com/onionj/pybotnet
+repo_name: trhacknon/pybotnet
+repo_url: https://github.com/trhacknon/pybotnet
 
 markdown_extensions:
   - toc:
